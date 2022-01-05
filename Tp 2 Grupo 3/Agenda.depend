@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1640847718 source:c:\users\principal\desktop\pablo\agenda\agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1640849463 c:\users\principal\desktop\pablo\agenda\agenda\funciones.h
+	<windows.h>
+
+1640847101 source:c:\users\principal\desktop\pablo\agenda\agenda\funcionesagenda.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+
+1641356778 source:c:\users\maquina del mal\desktop\agenda\funcionesagenda.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+
+1641356950 c:\users\maquina del mal\desktop\agenda\funciones.h
+	<windows.h>
+
+1641354904 source:c:\users\maquina del mal\desktop\agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1640644580 source:d:\descargas\comprimido\remix2\agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1640642986 d:\descargas\comprimido\remix2\agenda\funciones.h
+
+1640643313 source:d:\descargas\comprimido\remix2\agenda\funcionesagenda.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+
+1640662294 source:c:\users\principal\desktop\pablo\agenda\remix2\agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1640651414 c:\users\principal\desktop\pablo\agenda\remix2\agenda\funciones.h
+
+1640661836 source:c:\users\principal\desktop\pablo\agenda\remix2\agenda\funcionesagenda.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+
+1641394376 source:d:\descargas\tecnicatura utn\laboratorio 1\trabajos practicos\2\version de los pibes\funcionesagenda.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+
+1641392615 d:\descargas\tecnicatura utn\laboratorio 1\trabajos practicos\2\version de los pibes\funciones.h
+	<windows.h>
+
+1641392588 source:d:\descargas\tecnicatura utn\laboratorio 1\trabajos practicos\2\version de los pibes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
